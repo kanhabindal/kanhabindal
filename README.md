@@ -14,7 +14,7 @@
 
 - 📫 How To Reach Me **kanhabindal2000@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1wagCODIq6GlplpisOchYh4qHyULxGtUM/view?usp=sharing)
+<!--- 📄 My [Resume](https://drive.google.com/file/d/1wagCODIq6GlplpisOchYh4qHyULxGtUM/view?usp=sharing) -->
 
 <!--- 📝 Certified Web Developer By [Udemy](https://www.udemy.com/certificate/UC-3319b95d-ad8d-482c-a45e-758e6aacc1e9/) -->
 
